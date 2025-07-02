@@ -1,0 +1,14 @@
+[
+    {
+        "vehicle_id": "Genesis",
+        "action": "Init",
+        "timestamp": "2025-06-30T23:04:31.400227",
+        "hash": "6037404210079860ec4becbe7130fbeffe96618569eb6f176eadf1794e90c1a0"
+    },
+    {
+        "vehicle_id": "V5",
+        "action": "revoked",
+        "timestamp": "2025-06-30T23:04:43.182041",
+        "hash": "92fdcd67f548963596063229621156259e36fa6c7fb96930f228ee720dd234a6"
+    }
+]

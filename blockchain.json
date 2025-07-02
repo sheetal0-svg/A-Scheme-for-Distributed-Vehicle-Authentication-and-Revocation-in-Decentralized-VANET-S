@@ -1,0 +1,44 @@
+[
+    {
+        "vehicle_id": "Genesis",
+        "certificate": "Initial Block",
+        "timestamp": "2025-06-30T23:02:45.442944",
+        "hash": "b89159e7c58fbc4d0ae58bf330d2f5351139d9909ae3088ad9a2b09ef1363ed7"
+    },
+    {
+        "vehicle_id": "V1",
+        "certificate": "Cert-V1",
+        "timestamp": "2025-06-30T23:02:45.739772",
+        "hash": "cd18e83615c6eae4b5b84135a572b0ba0788cbc0318f68d0f10b5ab1603b9720"
+    },
+    {
+        "vehicle_id": "V2",
+        "certificate": "Cert-V2",
+        "timestamp": "2025-06-30T23:02:46.039603",
+        "hash": "8bb9a5bfa2ba2de80d61cafb6cc0ab68fa8e92bd67b54cef18f08f8122bc6134"
+    },
+    {
+        "vehicle_id": "V3",
+        "certificate": "Cert-V3",
+        "timestamp": "2025-06-30T23:02:46.238496",
+        "hash": "1571d65d8bf2fc6b2fb6e689092015049e29e9daa085ec3c92b4098e62699088"
+    },
+    {
+        "vehicle_id": "V4",
+        "certificate": "Cert-V4",
+        "timestamp": "2025-06-30T23:02:46.743199",
+        "hash": "0b2735902cefbf918c022422e17177e4d0fff16cc3e6af9a539246645aed08d2"
+    },
+    {
+        "vehicle_id": "V5",
+        "certificate": "Cert-V5",
+        "timestamp": "2025-06-30T23:02:46.802165",
+        "hash": "e876b5a7c518c1441de0ba51b126ffd8c16458f6ef085f6a74c09fce5afb4b59"
+    },
+    {
+        "vehicle_id": "V1",
+        "certificate": "Cert-V1",
+        "timestamp": "2025-06-30T23:03:26.327863",
+        "hash": "057671bcc7f74950a13f7efc9ee92570a10a4f22faa660a4640386127a86a88c"
+    }
+]
